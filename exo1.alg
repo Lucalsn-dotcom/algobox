@@ -9,6 +9,7 @@
     <item algoitem="FONCTIONS_UTILISEES" code="200#declarationfonctions"/>
     <item algoitem="VARIABLES" code="100#declarationsvariables">
         <item algoitem="b EST_DU_TYPE NOMBRE" code="1#NOMBRE#a"/>
+        <item algoitem="a EST_DU_TYPE NOMBRE" code="1#NOMBRE#a"/>
     </item>
     <item algoitem="DEBUT_ALGORITHME" code="101#debutalgo"/>
     <item algoitem="FIN_ALGORITHME" code="102#finalgo"/>
