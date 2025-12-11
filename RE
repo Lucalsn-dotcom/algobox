@@ -1,1 +1,24 @@
+# Projet AlgoBox – [algobox]
+
+Description
+Ce projet contient des fichiers `.algo` réalisés avec AlgoBox.  
+Il s’agit de projet basique on l'on definit des variables afin depourvoir les modifiers avec son colaborateur
+
+Contenu
+- exo1.alg
+- exo2.alg
+- exo3.alg
+
+Comment ouvrir le projet
+1. Ouvrir AlgoBox sur votre ordinateur  
+2. Aller dans **Fichier → Ouvrir**  
+3. Choisir un des fichiers .alg du projet
+
+Comment exécuter l’algorithme
+1. Ouvrir le fichier .alg dans AlgoBox  
+2. Cliquer sur Exécuter 
+3. Vérifier le résultat affiché
+
+Auteur
+Projet réalisé par : Loison luca et Martin coutures GROUPE EB
 
