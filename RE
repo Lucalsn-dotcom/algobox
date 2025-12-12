@@ -9,6 +9,10 @@ Contenu
 - exo2.alg
 - exo3.alg
 
+pour récuperer le projet 
+git clone https://github.com/Lucalsn-dotcom/algobox.git
+cd algobox
+
 Comment ouvrir le projet
 1. Ouvrir AlgoBox sur votre ordinateur  
 2. Aller dans **Fichier → Ouvrir**  
